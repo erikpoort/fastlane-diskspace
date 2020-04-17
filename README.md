@@ -14,7 +14,7 @@ fastlane add_plugin diskspace
 
 Sends the available disk size to slack
 
-When the disk size gets below x bytes, send a message to slack
+When the disk size gets below 5 gb, tell user to clean up!
 
 ## Example
 
